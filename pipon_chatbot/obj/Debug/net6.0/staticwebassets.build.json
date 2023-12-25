@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Q0iawS9aRtMx8NUyOGB3VRsyyXuZHh3fCZTg1/RQJQg=",
+  "Source": "Bot",
+  "BasePath": "_content/Bot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bot/wwwroot",
+      "Source": "Bot",
+      "ContentRoot": "/Users/ootaketatsuya/Documents/株式会社pipon/00-gijutsushoten/pipon_chatbot/wwwroot/",
+      "BasePath": "_content/Bot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/ootaketatsuya/Documents/株式会社pipon/00-gijutsushoten/pipon_chatbot/wwwroot/default.html",
+      "SourceId": "Bot",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ootaketatsuya/Documents/株式会社pipon/00-gijutsushoten/pipon_chatbot/wwwroot/",
+      "BasePath": "_content/Bot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/default.html"
+    }
+  ]
+}

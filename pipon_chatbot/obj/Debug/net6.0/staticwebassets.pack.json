@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ootaketatsuya/Documents/株式会社pipon/00-gijutsushoten/pipon_chatbot/wwwroot/default.html",
+      "PackagePath": "staticwebassets/default.html"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Bot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Bot.props",
+      "PackagePath": "build\\Bot.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Bot.props",
+      "PackagePath": "buildMultiTargeting\\Bot.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Bot.props",
+      "PackagePath": "buildTransitive\\Bot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
